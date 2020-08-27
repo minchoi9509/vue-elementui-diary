@@ -1,6 +1,12 @@
-# vue-assignment-day5
+# vue-assignment
 
-> A Vue.js project
+* Vue와 Element UI를 이용해서 만든 CURD 가능한 다이어리
+
+## 수정해야하는 부분
+* card 반응형
+* 전체 scroll 없어지는 것
+* scroll 자체
+* 버튼 토글 
 
 ## Build Setup
 
