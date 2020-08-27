@@ -1,4 +1,4 @@
-# vue-assignment
+# vue-diary
 
 * Vue와 Element UI를 이용해서 만든 CURD 가능한 다이어리
 
